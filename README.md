@@ -4,7 +4,7 @@ Project akhir ini mengintegrasikan **Suricata IDS** dengan **ELK Stack** untuk s
 
 ## Arsitektur Sistem
 - **Sensor (PC-6)**: Ubuntu Server, Suricata IDS, Filebeat.
-- **Server Pusat**: Elasticsearch & Kibana (IP 192.168.4.20).
+- **Server Pusat**: Elasticsearch & Kibana (IP 192.168.4.7).
 
 ## Cara Penggunaan
 1. Salin file di folder `config/` ke direktori `/etc/` masing-masing layanan.
